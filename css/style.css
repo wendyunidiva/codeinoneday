@@ -1,0 +1,103 @@
+html, body {
+    margin: 0;
+    line-height: 1.6;
+    font-family: 'Lora', serif;
+}
+
+ul{
+  border: 1px;
+}
+
+ul li{
+  display: inline-block;
+  width:30%;
+}
+
+h2 .astound {
+  color: blue;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.firstline{
+  color: white;
+}
+
+.header {
+  background-color: black;
+  background-image: url(../images/header-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  font-weight: 100;
+}
+
+.cta {
+  background-color: goldenrod;
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+}
+
+.header p{
+  margin-bottom: 40px;
+}
+
+.food-options ul {
+  margin: 0;
+}
+
+.food-options ul li {
+  width: 30%;
+  margin: 0 1%;
+  display: inline-block;
+}
+
+.food-options img {
+  max-width: 100%;
+  border: 3px solid goldenrod;
+}
+
+.about {
+  background-color: black;
+  background-image: url(../images/about.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  font-weight: 100;
+
+  text-align: center;
+}
+
+.profile-quote {
+font-style: italic;
+}
+
+.profile-desc {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.footer {
+  font-size: 20px;
+  text-align-last: center;
+  background: black;
+  color: white;
+  padding: 40px 0;
+}
+
+.footer h2 {
+  margin-bottom: 40px;
+}
